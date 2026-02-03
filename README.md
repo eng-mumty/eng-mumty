@@ -11,7 +11,7 @@
 - 🎓 Software Engineering student  
 - 💻 Interested in Web & Desktop Application Development  
 - 🎨 Love combining design with functionality  
-- 🌱 Currently learning Java, MySQL, and DevOps basics  
+
  
 
 ---
