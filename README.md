@@ -7,7 +7,7 @@
 
 ---
 
-### 👩‍💻 About Me
+👩‍💻 About Me
 - 🎓 Software Engineering student  
 - 💻 Interested in Web & Desktop Application Development  
 - 🎨 Love combining design with functionality  
@@ -16,7 +16,7 @@
 
 ---
 
-### 🤝 Connect with Me
+ 🤝 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/kafia" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
@@ -28,7 +28,7 @@
 
 ---
 
-### 🛠 Languages & Tools
+🛠 Languages & Tools
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
@@ -44,7 +44,7 @@
 
 
 
-### ✨ Goals
+✨ Goals
 - Become a professional Software Engineering   
 - Learn DevOps and Cloud technologies  
 
