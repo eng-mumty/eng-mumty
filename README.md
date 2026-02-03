@@ -42,15 +42,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
 </p>
 
----
 
-
-### 📌 Projects
-- 📚 Library Management System (Java & MySQL)  
-- 🌐 Responsive Websites using HTML, CSS & JavaScript  
-- 🖥 Desktop Applications (Academic Projects)
-
----
 
 ### ✨ Goals
 - Become a professional Software Engineering   
