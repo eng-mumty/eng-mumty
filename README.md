@@ -19,7 +19,7 @@
 - 🎨 I bridge the gap between **Complex Code** and **Clean Design**.
 - 💻 My focus is on **Web & Desktop Applications** using modern technologies.
 - 🌱 Currently deep-diving into **DevOps** and **Cloud Infrastructure**.
-- 💬 Ask me about UI/UX tips or anything related to Java and C#.
+
 
 ---
 
