@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kafia%20Sharma&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%Kafia%20Sharma&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
   
   <br>
   
@@ -17,7 +17,6 @@
 
 - ✨ I am **Kafia Sharma**, a Software Engineering student with a passion for creative solutions.
 - 🎨 I bridge the gap between **Complex Code** and **Clean Design**.
-- 💻 My focus is on **Web & Desktop Applications** using modern technologies.
 - 🌱 Currently deep-diving into **DevOps** and **Cloud Infrastructure**.
 
 
