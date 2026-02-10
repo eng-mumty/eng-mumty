@@ -1,62 +1,74 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%Kafia%20Sharma&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
-  
-  <br>
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bc9-bd60-390742f9f79b.gif" width="300">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kafia%20Sharma&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-  <h1 align="center">Software Engineering Student & UI/UX Enthusiast 👩‍💻✨</h1>
+  <h1>Hey there! I'm Kafia <img src="https://media.giphy.com/media/hvRJCLzdzTCW4/giphy.gif" width="35"></h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;Crafting+Beautiful+UI%2fUX;Passionate+about+Cloud+DevOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;UI%2fUX+Design+Enthusiast;Cloud+%26+DevOps+Explorer;Building+Digital+Experiences" alt="Typing SVG" />
+
+  <p align="center">
+    <a href="https://github.com/Kafia-Sharma">
+      <img src="https://img.shields.io/github/followers/Kafia-Sharma?label=Follow&style=social"  alt="GitHub Followers">
+    </a>
+  </p>
 </div>
 
 ---
 
 ### 🌸 About Me
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa2cd-79fb-4e7b-8250-1e30ee97d106.gif" width="250">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa2cd-79fb-4e7b-8250-1e30ee97d106.gif" width="220">
 
-- ✨ I am **Kafia Sharma**, a Software Engineering student with a passion for creative solutions.
-- 🎨 I bridge the gap between **Complex Code** and **Clean Design**.
-- 🌱 Currently deep-diving into **DevOps** and **Cloud Infrastructure**.
 
+- 🎓 **Education:** Currently pursuing a degree in **Software Engineering**.
+- 🛠️ **Current Focus:** Deep-diving into **DevOps** and **Cloud Infrastructure**.
+- 🎯 **Goal:** To create user-centric applications that solve real-world problems.
+- ⚡ **Fun Fact:** I believe the world is better when code is clean and pixels are perfect.
 
 ---
 
 ### 🚀 Technical Toolbox
 
 <div align="center">
-
-| **Frontend & Design** | **Backend & Databases** | **Tools & Others** |
-| :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" /> | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> | <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" /> | <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" /> | <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white" /> | <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" /> | <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" /> |
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,java,cs,php,mysql,figma,ps,git,vscode,azure,docker" />
 </div>
 
 ---
 
+### 📊 GitHub Analytics
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" width="400px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=rose_pine&hide_border=true" width="300px" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 ---
 
-### 🐍 Contribution Activity
+### 🐍 Contribution Journey
 <div align="center">
   <img src="https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%23F75C7E" width="100%" />
 </div>
 
 ---
 
-### 🔗 Let's Build Something Together!
+### 🔗 Let's Connect & Collaborate
 <div align="center">
-  <a href="https://linkedin.com/in/kafia">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/ceebla_7">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/kafia">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/ceebla_7">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
 </div>
 
 <br>
