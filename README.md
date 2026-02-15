@@ -21,7 +21,7 @@
 - 🎓 **Education:** Currently pursuing a degree in **Software Engineering**.
 - 🛠️ **Current Focus:** Deep-diving into **DevOps** and **Cloud Infrastructure**.
 - 🎯 **Goal:** To create user-centric applications that solve real-world problems.
-- ⚡ **Fun Fact:** I believe the world is better when code is clean and pixels are perfect.
+
 
 ---
 
