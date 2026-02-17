@@ -47,14 +47,8 @@
   </table>
 </div>
 
----
 
-### 🐍 Contribution Journey
-<div align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%23F75C7E" width="100%" />
-</div>
 
----
 
 ### 🔗 Let's Connect & Collaborate
 <div align="center">
