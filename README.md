@@ -33,19 +33,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" width="400px" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=rose_pine&hide_border=true" width="300px" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 
 
