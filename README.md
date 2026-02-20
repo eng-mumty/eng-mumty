@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kafia%20Sharma&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
+
 
   <h1>Hey there! I'm Kafia <img src="https://media.giphy.com/media/hvRJCLzdzTCW4/giphy.gif" width="35"></h1>
 
