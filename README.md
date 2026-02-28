@@ -1,40 +1,29 @@
-
-
+<div align="center">
   <h1>Hey there! I'm Kafia <img src="https://media.giphy.com/media/hvRJCLzdzTCW4/giphy.gif" width="35"></h1>
-
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;UI%2fUX+Design+Enthusiast;Cloud+%26+DevOps+Explorer;Building+Digital+Experiences" alt="Typing SVG" />
-
-  <p align="center">
-    <a href="https://github.com/Kafia-Sharma">
-      <img src="https://img.shields.io/github/followers/Kafia-Sharma?label=Follow&style=social"  alt="GitHub Followers">
-    </a>
-  </p>
 </div>
 
 ---
 
-### 🌸 About Me
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa2cd-79fb-4e7b-8250-1e30ee97d106.gif" width="220">
+🌸 About Me
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa2cd-79fb-4e7b-8250-1e30ee97d106.gif" width="180">
 
-
-- 🎓 **Education:** Currently pursuing a degree in **Software Engineering**.
-- 🛠️ **Current Focus:** Deep-diving into **DevOps** and **Cloud Infrastructure**.
-- 🎯 **Goal:** To create user-centric applications that solve real-world problems.
-
-
----
-
+"Turning coffee into code and ideas into digital reality." ☕✨
 ### 🚀 Technical Toolbox
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,java,cs,php,mysql,figma,ps,git,vscode,azure,docker" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,java,cs,php,mysql,figma,ps,git,vscode,azure,docker&perline=8" />
+</p>
 
 ---
 
+### 📊 GitHub Analytics
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kafia-Sharma&show_icons=true&theme=rosepine&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kafia-Sharma&layout=compact&theme=rosepine&hide_border=true" />
+</p>
 
-
-
+---
 
 ### 🔗 Let's Connect & Collaborate
 <div align="center">
@@ -50,8 +39,6 @@
 </a>
 
 </div>
-
-<br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
