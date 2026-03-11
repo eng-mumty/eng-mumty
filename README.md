@@ -12,7 +12,7 @@
 
 <img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-✨ Passionate Software Engineering student  
+✨  Software Engineering student  
 💻 Currently mastering **Full Stack Development**   
 🎨 UI/UX lover who believes design is intelligence made visible  
   
