@@ -25,20 +25,13 @@
 
 ### 💻 Frontend  
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react&perline=6" />
 </p>
 
 ### 🛠 Backend & Database  
 <p>
-<img src="https://skillicons.dev/icons?i=php,nodejs,mysql,java,cs&perline=6" />
+<img src="https://skillicons.dev/icons?i=php,mysql,java,cs&perline=6" />
 </p>
-
-### ☁️ DevOps & Tools  
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,azure,docker,vscode,figma&perline=6" />
-</p>
-
----
 
 
 ## 🌍 Let's Connect  
