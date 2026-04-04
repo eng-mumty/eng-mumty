@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hey, I'm Kafia Sharma
+# 👋 Hey, I'm Kafia Sharma 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Frontend+%26+Backend+Developer;Cloud+%26+DevOps+Explorer;Building+Scalable+Digital+Experiences" />
 
