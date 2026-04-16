@@ -17,7 +17,7 @@
 🎨 UI/UX lover who believes design is intelligence made visible  
   
 
-> “Consistency beats motivation. I build, I break, I learn, I grow.”
+> “Consistency beats motivation. I build, I break, I learn, I grow.” 
 
 ---
 
