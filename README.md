@@ -22,7 +22,7 @@
 ---
 
 ## 🚀 Tech Stack  
-
+ 
 ### 💻 Frontend  
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react&perline=6" />
